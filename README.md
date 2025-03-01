@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Microsoft Fabric, Microsoft Power BI
 
 ## Education				       		
-- Engineering Degree in Computer Science, equivalent to MSc	| Polytech Paris Saclay (_September 2019_)	 			        		
+- Engineering Degree in Computer Science, equivalent to MSc	- Polytech Paris Saclay (_September 2019_)	 			        		
 - Master of Business Administration (MBA) – IAE Paris-Sorbonne(_September 2020_)
 
 ## Work Experience
