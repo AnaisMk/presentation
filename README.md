@@ -17,3 +17,6 @@
 - Agile project management using the SCRUM methodology.
 - Organizing daily Stand-Up meetings with development teams.
 - Managing and monitoring projects with external clients.
+
+## Technical Writing & Tutorials
+- [MiseEnPlaceCICD.pdf](https://github.com/user-attachments/files/19043390/MiseEnPlaceCICD.pdf)
