@@ -19,4 +19,5 @@
 - Managing and monitoring projects with external clients.
 
 ## Technical Writing & Tutorials
-- [MiseEnPlaceCICD.pdf](https://github.com/user-attachments/files/19043390/MiseEnPlaceCICD.pdf)
+- [MiseEnPlaceCICD.pdf](https://github.com/user-attachments/files/19043403/MiseEnPlaceCICD.pdf)
+
