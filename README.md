@@ -20,4 +20,4 @@
 
 ## Technical Writing & Tutorials
 - [MiseEnPlaceCICD.pdf](https://github.com/user-attachments/files/19043403/MiseEnPlaceCICD.pdf)
-
+- [2-Mise en place d'un schema architectural.pdf](https://github.com/user-attachments/files/19050131/2-Mise.en.place.d.un.schema.architectural.pdf)
