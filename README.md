@@ -21,3 +21,4 @@
 ## Technical Writing & Tutorials
 - [MiseEnPlaceCICD.pdf](https://github.com/user-attachments/files/19043403/MiseEnPlaceCICD.pdf)
 - [2-Mise en place d'un schema architectural.pdf](https://github.com/user-attachments/files/19050131/2-Mise.en.place.d.un.schema.architectural.pdf)
+- [3 - Planification des besoins en données et architecture pour le ML.pdf](https://github.com/user-attachments/files/19050790/3.-.Planification.des.besoins.en.donnees.et.architecture.pour.le.ML.pdf)
