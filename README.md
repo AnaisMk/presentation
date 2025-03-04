@@ -19,6 +19,7 @@
 - Managing and monitoring projects with external clients.
 
 ## Technical Writing & Tutorials
-- [MiseEnPlaceCICD.pdf](https://github.com/user-attachments/files/19043403/MiseEnPlaceCICD.pdf)
-- [2-Mise en place d'un schema architectural.pdf](https://github.com/user-attachments/files/19050131/2-Mise.en.place.d.un.schema.architectural.pdf)
-- [3 - Planification des besoins en données et architecture pour le ML.pdf](https://github.com/user-attachments/files/19050790/3.-.Planification.des.besoins.en.donnees.et.architecture.pour.le.ML.pdf)
+[1 - Mise en place d'un pipeline CI CD.pdf](https://github.com/user-attachments/files/19065657/1.-.Mise.en.place.d.un.pipeline.CI.CD.pdf)
+[2 - Mise en place d'un schema architectural.pdf](https://github.com/user-attachments/files/19065659/2.-.Mise.en.place.d.un.schema.architectural.pdf)
+[3 - Planification des besoins en données et architecture pour le ML.pdf](https://github.com/user-attachments/files/19065652/3.-.Planification.des.besoins.en.donnees.et.architecture.pour.le.ML.pdf)
+[4 - Business Intelligence impact métier analyse de besoins outils.pdf](https://github.com/user-attachments/files/19065655/4.-.Business.Intelligence.impact.metier.analyse.de.besoins.outils.pdf)
