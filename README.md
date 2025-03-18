@@ -19,8 +19,11 @@
 - Managing and monitoring projects with external clients.
 
 ## Technical Writing & Tutorials
-- https://dataandmatcha.medium.com/optimizing-data-exploration-with-microsoft-fabric-a-brief-case-study-for-power-bi-reports-648298cef84d 
 - [1 - Mise en place d'un pipeline CI CD.pdf](https://github.com/user-attachments/files/19065657/1.-.Mise.en.place.d.un.pipeline.CI.CD.pdf)
 - [2 - Mise en place d'un schema architectural.pdf](https://github.com/user-attachments/files/19065659/2.-.Mise.en.place.d.un.schema.architectural.pdf)
 - [3 - Planification des besoins en données et architecture pour le ML.pdf](https://github.com/user-attachments/files/19065652/3.-.Planification.des.besoins.en.donnees.et.architecture.pour.le.ML.pdf)
 - [4 - Business Intelligence impact métier analyse de besoins outils.pdf](https://github.com/user-attachments/files/19065655/4.-.Business.Intelligence.impact.metier.analyse.de.besoins.outils.pdf)
+- Optimizing Data Exploration with Microsoft Fabric: A brief case study for Power BI Reports : https://dataandmatcha.medium.com/optimizing-data-exploration-with-microsoft-fabric-a-brief-case-study-for-power-bi-reports-648298cef84d 
+- Tools to choose between Flutter and React Native : https://medium.com/dev-genius/tools-to-choose-between-flutter-and-react-native-e14f612c6fd8
+- Fuschia OS is not a science experiment anymore : https://medium.com/dev-genius/fuchsia-os-is-not-a-science-experiment-anymore-5e96660489c4
+- Resolving the Dilemma Between Native and Progressive Web Apps : https://medium.com/better-programming/resolving-the-dilemma-between-native-and-progressive-web-apps-8897d5ee7423
