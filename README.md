@@ -19,6 +19,7 @@
 - Managing and monitoring projects with external clients.
 
 ## Technical Writing & Tutorials
+- https://dataandmatcha.medium.com/optimizing-data-exploration-with-microsoft-fabric-a-brief-case-study-for-power-bi-reports-648298cef84d 
 - [1 - Mise en place d'un pipeline CI CD.pdf](https://github.com/user-attachments/files/19065657/1.-.Mise.en.place.d.un.pipeline.CI.CD.pdf)
 - [2 - Mise en place d'un schema architectural.pdf](https://github.com/user-attachments/files/19065659/2.-.Mise.en.place.d.un.schema.architectural.pdf)
 - [3 - Planification des besoins en données et architecture pour le ML.pdf](https://github.com/user-attachments/files/19065652/3.-.Planification.des.besoins.en.donnees.et.architecture.pour.le.ML.pdf)
